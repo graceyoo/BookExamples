@@ -9,5 +9,7 @@
 int main()
 {
   std::cout << "Solidum petit in profundis!\n";
+  std::cout << "Saluton Mondo!\n";
+  std::cout << "Hello World!\n";
   return 0;
 }
