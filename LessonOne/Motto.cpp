@@ -6,10 +6,14 @@
 
 #include <iostream>
 
-int main()
+
+void printString()
 {
   std::cout << "Solidum petit in profundis!\n";
-  std::cout << "Saluton Mondo!\n";
-  std::cout << "Hello World!\n";
+}
+
+int main()
+{
+  printString();
   return 0;
 }
